@@ -1,5 +1,3 @@
-**README para JavaScript e Dart: Somatório de Números Divisíveis por 3 ou 5**
-
 # Projeto Somatório em JavaScript e Dart
 
 Este projeto calcula o somatório de todos os valores inteiros menores que um número dado e divisíveis por 3 ou 5. A implementação está disponível em JavaScript e Dart.
